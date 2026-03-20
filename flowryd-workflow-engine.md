@@ -2,7 +2,7 @@
 
 **Applicant:** Liz Towler, Founder & CEO, Flowryd
 **Contact:** liz@flowryd.xyz
-**Canton Status:** Featured App — approved November 2025, grant funds go-live on Canton MainNet
+**Canton Status:** Featured App — approved January 2026, grant funds go-live on Canton MainNet
 **Technical Champion:** IntellectEU (Catalyst deployment platform, Canton node host)
 **Date:** March 2026
 **Fund:** CIP-0082 — Protocol Development Fund
@@ -110,7 +110,7 @@ Intel Briefs as worked examples. Each brief takes a real Canton transaction, map
 | Milestone | Deliverable | Budget | Timeline | Verification |
 |---|---|---|---|---|
 | M1 — IEU Design Phase | Integration Architecture (C4 diagrams, Catalyst CBM/CPM). Daml Smart Contract Scope for 11 Flows. Technical Backlog with acceptance criteria. T&M Resource Plan for Phase 2. | ~$36,000 USD (£28,600 fixed) | Weeks 1–4 | IEU Design Phase Report delivered. Architecture diagrams published. |
-| M2 — Gravity / Will Lee — Intel Layer & Standards UI | Intel Dashboard completion. Behind the Headline tab live. Workbench 1.0 standards toggle layer (ICMA/ISDA/SEC/BCG). Volume reporting dashboard. Flow activation UI. Admin CMS. | $50,000 USD | Weeks 1–8 | Live at app.flowryd.xyz. Public URLs verifiable. Standards mapping visible in Workbench. |
+| M2 — Gravity / Will Lee — Intel Layer & Standards UI | Intel Dashboard completion. Behind the Headline tab live. Workbench 1.0 standards toggle layer (ICMA/ISDA/SEC/BCG). Volume reporting dashboard. Flow activation UI. Admin CMS. Ryd AI — agentic Daml contract authoring layer, validated against canonical Canton patterns. | $50,000 USD | Weeks 1–8 | Live at app.flowryd.xyz. Public URLs verifiable. Standards mapping visible in Workbench. |
 | M3 — IEU Go-Live — Node & Canton Integration | LiveCantonService replacing MockCantonService. Catalyst production environment live. Atomic CC settlement via Fireblocks. Audit log on Canton. End-to-end deal lifecycle on-ledger. | ~$14,000 USD (2 weeks T&M) | Weeks 5–6 | Live Canton node active. Atomic settlement verified on Canton MainNet. |
 
 **Phase 1 Total: ~$100,000 USD**
